@@ -1,0 +1,1 @@
+SDM (Space Division Multiplexin) - polega na fizycznym oddzieleniu nośników danych, np. poprzez połączenie kilku przewodników w kablu, np. wielordzeniowe połączenia światłowodowe leżące na dnie ocean (Europa-USA, 8 włókien)

@@ -1,0 +1,1 @@
+CDM (Code Division Multiplexing) - polega na wysyłaniu transmisji której odczyt może być dokonany tylko jeśli posiadamy odpowiedni klucz do zdekodowania informacji. Został wyparty przez [[Zwielokrotnienie ortagonalne częstotliwościowe (OFDM) | OFDM]]

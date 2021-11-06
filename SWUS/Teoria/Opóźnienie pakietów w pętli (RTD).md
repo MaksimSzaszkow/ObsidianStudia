@@ -1,0 +1,1 @@
+RTD (Round Trip Delay) - określa opóźnienie przekazu pakietu mierzone w jednym punkcie na drodze pomiędzy źródłem-przeznaczeniem-źródłem. Matryka ma wartość ΔT, jeśli źródło wysłało pierwszy bit danego pakietu w chwili T, urządzenie docelowe po odebraniu pakietu natychmiast odesłało pakiet do źródła a źródło odebrało ostatni bit tego pakietu w chwili T+ΔT.

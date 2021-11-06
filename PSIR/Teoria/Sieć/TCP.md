@@ -1,0 +1,1 @@
+**TCP** (Transmision Control Protocol) - jest jednym z głównych protokołów opisującym jak rzeczy mają być wysyłane w internecie. Implementuje mechanizmy które zapewniają niezawodne, uporządkowane i sprawdzone pod kątem errorów przesyłanie oktetów pomiędzy maszynami działającym w sieci IP.

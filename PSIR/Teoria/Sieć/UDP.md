@@ -1,0 +1,1 @@
+**UDP** (User Datagram Protocol) - jest jednym z głównych protokołów opisującym jak rzeczy mają być wysyłane w internecie. Nie implementuje prawie żadnych mechanizmów poza sumami kontrolnymi dla sprawdzania integralności danych, co otwiera przesyłane oktety na błędy przesyłu, brak uporządkowania lub błąd duplikatów pakietów. 

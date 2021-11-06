@@ -1,0 +1,1 @@
+BER (Bit Error Ratio) - stosunek liczby przekłamanych bitów do całkowitej liczby bitów

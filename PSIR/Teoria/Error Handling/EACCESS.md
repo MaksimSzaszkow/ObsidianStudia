@@ -1,0 +1,1 @@
+**EACCESS** - – brak uprawnień do tworzenia gniazda o podanych parametrach

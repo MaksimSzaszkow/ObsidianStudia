@@ -1,0 +1,1 @@
+W systemie transmisyjnym możemy wyróżnić [[Media Transmisyjne | media transmisyjne]] i [[Typy Transmisji | typy transmisji]]

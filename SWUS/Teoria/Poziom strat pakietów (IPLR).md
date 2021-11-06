@@ -1,0 +1,2 @@
+**IPLR** (IP Packet Loss Ratio) - stosunek liczby pakietów straconych do liczby pakietów wysłanych w danym okresie pomiarowym, gdzie pakiety stracone to te nieodebrane lub mające zbyt duże opóźnienie
+$$IPRL = \frac{\mbox{liczba wysłanych pakietów} - \mbox{liczba odebranych pakietów}}{\mbox{liczba wysłanych pakietów}}$$

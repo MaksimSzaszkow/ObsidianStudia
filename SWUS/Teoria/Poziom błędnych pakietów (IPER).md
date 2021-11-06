@@ -1,0 +1,1 @@
+IPER (IP Packet Error Ratio) - stosunek liczby pakietów z błędami w polu danych pakietu do liczby pakietów wysłanych w danym okresie pomiarowym

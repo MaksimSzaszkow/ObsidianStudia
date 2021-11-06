@@ -1,0 +1,1 @@
+**Metody pomiarowe** - określają sposób w jaki uzyskujemy wartość metryki. Można podzielić na dwa sposoby, względem klasy  ([[Metody pomiarowe aktywne | aktywne]] / [[Metody pomiarowe pasywne | pasywne]]) lub sposobu przeprowadzenie ([[Metody pomiarowe online | online]] / [[Metody pomiarowe offline | offline]])

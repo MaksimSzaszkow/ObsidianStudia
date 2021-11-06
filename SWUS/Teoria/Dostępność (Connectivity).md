@@ -1,0 +1,1 @@
+Connectivity - określa możliwość przekazu pakietów pomiędzy danym źródłem a urządzeniem docelowym.

@@ -1,0 +1,1 @@
+FDD (Frequency Division Duplex) - polega na wybraniu dwóch częstotliwości w których będzie się odbywała transmisja terminala do stacji bazowej i stacji bazowe do terminala

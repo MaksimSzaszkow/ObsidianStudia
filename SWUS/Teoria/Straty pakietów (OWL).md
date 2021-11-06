@@ -1,0 +1,1 @@
+OWL (One Way Packet Loss) - wartość oczekiwana OWL służy określa [[Poziom strat pakietów (IPLR) | IPRL]]. Dla poprawnie otrzymanego pakietu wartość wynosi 0, w innym wypadku 1.

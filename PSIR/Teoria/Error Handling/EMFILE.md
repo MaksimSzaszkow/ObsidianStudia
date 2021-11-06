@@ -1,0 +1,1 @@
+**EMFILE** - zbyt wiele otwartych plików/deskryptorów

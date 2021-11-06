@@ -1,0 +1,1 @@
+TDD (Time Division Duplex) - polega na wykorzystaniu zakresu częstotliwości odpowiadającego dwustronnej transmisji danych, który dzieli się na szczeliny czasowe w których tylko jedna ze stron może nadawać. Stosowane na wysokich częstotliwościach (~2600MHz)

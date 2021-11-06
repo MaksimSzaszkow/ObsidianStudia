@@ -1,0 +1,1 @@
+**ENOBUFFS** - brak pamięci na odpowiednie struktury

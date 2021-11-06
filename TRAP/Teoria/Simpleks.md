@@ -1,0 +1,1 @@
+Transmisja jednostronna, np. radio, latarnie morskie

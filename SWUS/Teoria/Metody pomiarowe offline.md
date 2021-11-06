@@ -1,0 +1,5 @@
+**Metody pomiarowe offline** -  proces polega na zbieraniu danych (w sposób [[Metody pomiarowe aktywne | aktywny]] lub [[Metody pomiarowe pasywne | pasywny]]) z wybranego okna czasowego o dowolnej długości, po czym dane są analizowane i dopiero po uzyskaniu wyników i przekazaniu ich operatorowi zbierane są dane z kolejnego okna czasowego. Oznacza to że dane pojawiają się z opóźnieniem zależnym od czasu trwania procesu analizy. 
+
+Metodyka ta jest stosowana najczęściej do zaplanowanego z góry badania sieci według ściśle ustalonego scenariusza w kontrolowanym środowisku, np. badanie nowego urządzenia które ma uczestniczyć w sieci pod względem dostarczanego [[Jakość usługi (QoS) | QoS]].
+
+Testowanie urządzeń polega na przepuszczeniu przez nie ruchu będącym najgorszym możliwym scenariuszem w faktycznej sieci w której będą uczestniczyć. Jeśli urządzenie uzyska pozytywny wynik w takim teście, to można założyć że będzie działało w każdych innych warunkach w sieci. 

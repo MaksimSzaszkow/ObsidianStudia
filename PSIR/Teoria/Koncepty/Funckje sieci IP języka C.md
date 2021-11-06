@@ -1,0 +1,4 @@
+## [[Konwersja]]
+
+## [[Socket | Gniazdo]]
+

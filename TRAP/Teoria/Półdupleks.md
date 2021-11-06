@@ -1,0 +1,1 @@
+Transmisja naprzemienna w dwie strony, np. walkie-talkie, CB radio

@@ -1,0 +1,1 @@
+   IPPT (IP Packet Throughput) - stosunek liczby pakietów odebranych w danym okresie pomiarowym do długości tego okresu pomiarowego

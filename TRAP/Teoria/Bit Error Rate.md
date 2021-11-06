@@ -1,0 +1,1 @@
+BER (Bit Error Rate) - liczba przekłamanych bitów w jednostce czasu

@@ -1,0 +1,1 @@
+**PRBS (Pseudo-random binary sequence)**

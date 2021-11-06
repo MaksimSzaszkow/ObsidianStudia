@@ -1,0 +1,1 @@
+TDM (Time Division Multiplexing) - polega na podzieleniu dziedziny czasowej na szczeliny w których nadawanie sygnału jest możliwe. W sieci dostępowej każdy odbiera sygnały w okolicy więc ma dostęp do komunikacji urządzeń w okolicy.

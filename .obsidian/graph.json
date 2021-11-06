@@ -1,0 +1,51 @@
+{
+  "collapse-filter": false,
+  "search": "",
+  "showTags": false,
+  "showAttachments": false,
+  "hideUnresolved": true,
+  "showOrphans": true,
+  "collapse-color-groups": false,
+  "colorGroups": [
+    {
+      "query": "PSIR",
+      "color": {
+        "a": 1,
+        "rgb": 15966768
+      }
+    },
+    {
+      "query": "SMSIR",
+      "color": {
+        "a": 1,
+        "rgb": 5414624
+      }
+    },
+    {
+      "query": "TRAP",
+      "color": {
+        "a": 1,
+        "rgb": 15612207
+      }
+    },
+    {
+      "query": "SWUS",
+      "color": {
+        "a": 1,
+        "rgb": 9708784
+      }
+    }
+  ],
+  "collapse-display": false,
+  "showArrow": false,
+  "textFadeMultiplier": -0.5,
+  "nodeSizeMultiplier": 1.88129411764706,
+  "lineSizeMultiplier": 1.83517647058824,
+  "collapse-forces": false,
+  "centerStrength": 0.584632352941176,
+  "repelStrength": 17.0588235294118,
+  "linkStrength": 1,
+  "linkDistance": 177,
+  "scale": 0.17559448226509097,
+  "close": true
+}

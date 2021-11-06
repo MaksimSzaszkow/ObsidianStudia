@@ -1,0 +1,118 @@
+{
+  "main": {
+    "id": "c4848f5a3dd5dbe7",
+    "type": "split",
+    "children": [
+      {
+        "id": "33fac03d3267811f",
+        "type": "leaf",
+        "state": {
+          "type": "graph",
+          "state": {}
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "2c5daad9c349bab9",
+    "type": "split",
+    "children": [
+      {
+        "id": "ce6a369858374dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4690d8950e73e4d1",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "a02ef1a837ebef2c",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 332
+  },
+  "right": {
+    "id": "4c1e32c23cbf9193",
+    "type": "split",
+    "children": [
+      {
+        "id": "35d5f4a2f5fefd74",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c1b6ad70f8f7fc40",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": false
+              }
+            }
+          },
+          {
+            "id": "3eb2b9f5223c2a92",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "a96184b1af334acc",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "active": "33fac03d3267811f",
+  "lastOpenFiles": [
+    "PSIR/Teoria/Funkcje/recv().md",
+    "PSIR/Teoria/Funkcje/bind().md",
+    "PSIR/Teoria/Funkcje/send().md",
+    "PSIR/Teoria/Koncepty/Big-endian.md",
+    "PSIR/Teoria/Koncepty/Socket.md",
+    "PSIR/Teoria/Koncepty/Funckje sieci IP języka C.md",
+    "PSIR/Teoria/Struktury/in6_addr.md",
+    "PSIR/Teoria/Struktury/addrinfo.md",
+    "PSIR/Teoria/Struktury/in_addr.md",
+    "PSIR/Teoria/Koncepty/Struktury danych sieci IP języka C.md"
+  ]
+}

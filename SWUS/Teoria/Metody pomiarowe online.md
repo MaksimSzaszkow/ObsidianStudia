@@ -1,0 +1,3 @@
+**Metody pomiarowe online** - proces polega na zbieraniu danych (w sposób [[Metody pomiarowe aktywne | aktywny]] lub [[Metody pomiarowe pasywne | pasywny]]) z wybranego okna czasowego o dowolnej długości, po czym dane są wysyłane do operatora na analizę i okno jest przesuwane, tak aby zaczęło zbierać dane z kolejnego okresu czasu. W tej sytuacji dane są zbierane bez potrzeby czekania na zakończenie analizy, gdyż analiza i zbieranie danych są procesami niezależnymi. 
+
+Proces ten jest wykorzystywany do monitorowania na bieżąco działającej sieci. 

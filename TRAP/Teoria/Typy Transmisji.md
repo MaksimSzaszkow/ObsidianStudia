@@ -1,0 +1,1 @@
+Transmisja może sie odbywać jako [[Simpleks | simpleks]], [[Dupleks | dupleks]] lub [[Półdupleks | półdupleks]]

@@ -1,0 +1,1 @@
+Dupleks - Transmisja dwustronna jednoczesna, np. 5G

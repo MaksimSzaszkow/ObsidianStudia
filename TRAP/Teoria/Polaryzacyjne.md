@@ -1,0 +1,1 @@
+Wykorzystanie polaryzacji do przesłania większej ilości informacji. Nie jest wykorzystywane w technologii radiowej ponieważ nie pozwala na to kierunkowość anten, ale ma zastosowanie w łączności satelitarnej, gdzie anteny są nieruchome.

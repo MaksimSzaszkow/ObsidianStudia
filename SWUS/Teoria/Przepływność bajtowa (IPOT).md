@@ -1,0 +1,1 @@
+IPOT (Octet-based IP Packet Throughput) - określa stosunek liczby bajtów zawartych w pakietach odebranych w danym punkcie sieci w pewnym okresie pomiarowym do długości tego okresu

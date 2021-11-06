@@ -1,0 +1,1 @@
+Dostęp do sieci może być organizowany za pomocą [[Organizacja czasowa (TDD) | czasu]] lub [[Organizacja częstotliwościowa (FDD) | częstotliwości]]

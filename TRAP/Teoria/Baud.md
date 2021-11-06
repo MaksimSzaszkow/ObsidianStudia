@@ -1,0 +1,1 @@
+Liczba symboli na jednostkę czasu, zwyczajowo **symbol/s**

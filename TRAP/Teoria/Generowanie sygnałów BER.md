@@ -1,0 +1,2 @@
+Najczęsciej uzywanym sygnałem podczas mierzenia BER jest [[PRBS]]. Aby zapewnić sekwencji pełną losowość, ilość zer i jedynek powinna być taka sama, natomiast [[PRBS]] ma nieparzystą, stąd jest pseudolosowy. Im dłuższa sekwencja będzie testowana tym bardziej miarodajny wynik. Ilość testowanych bitów przekłada się na liczbę użytych rejestrów przesuwanych:
+![[Pasted image 20211028080510.png]]

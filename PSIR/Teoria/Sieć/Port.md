@@ -1,0 +1,3 @@
+**Port** - jest to adres przydzielany danej usłudze która działa na hoście o danym IP. Umożliwia on dwustroną komunikację usług między dwoma maszynami w sieci poprzez umożliwienie nie tylko zaadresowania konkretnego użytkownika, ale i konkretną usługę działającą na maszynie użytkownika. 
+
+Porty zapisujemy korzystając z 16 bitów, co przez fakt że każdy port udostępnia komunikację dwustronną daje nam $2^{15}$ portów do przydzielenia usługom. 

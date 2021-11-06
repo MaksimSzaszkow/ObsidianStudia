@@ -1,0 +1,1 @@
+**EPROTONOSUPPORT** - nie wspierany protokół

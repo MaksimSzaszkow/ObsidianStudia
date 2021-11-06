@@ -1,0 +1,1 @@
+**Próg decyzyjny** - granica która określa jaką wartość powinien mieć sygnał który znajduje się pomiędzy możliwymi wartościami. Przykładowo dla systemu binarnego jeśli odczytana wartość jest bliżej 1 niż 0 to za pomocą progu decyzyjnego przyznajemy mu wartość 1. 

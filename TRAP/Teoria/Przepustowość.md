@@ -1,0 +1,1 @@
+Przepustowość - określa **maksymalne natężenie** strumienia danych

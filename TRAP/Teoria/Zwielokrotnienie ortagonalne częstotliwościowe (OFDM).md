@@ -1,0 +1,1 @@
+OFDM (Orthogonal frequency-division multiplexing) - polega na modulowaniu podnośni, charakteryzuje się wysoką wydajność widmowa i dużą liczba przesyłanych bitów na jednostkę pasma
