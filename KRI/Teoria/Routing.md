@@ -1,0 +1,1 @@
+**Routing** - sterowanie **drogami** ruchu sieci przez [[Płaszczyzna sterowania | płaszczyznę sterowania]]. Tworzy [[Tablica routingu | tablicę routingu]]

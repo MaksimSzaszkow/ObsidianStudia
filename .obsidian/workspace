@@ -7,8 +7,11 @@
         "id": "33fac03d3267811f",
         "type": "leaf",
         "state": {
-          "type": "graph",
-          "state": {}
+          "type": "markdown",
+          "state": {
+            "file": "KRI/Wykład 1/KRI - Wykład 1.md",
+            "mode": "source"
+          }
         }
       }
     ],
@@ -65,6 +68,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "KRI/Wykład 1/KRI - Wykład 1.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,15 +108,15 @@
   },
   "active": "33fac03d3267811f",
   "lastOpenFiles": [
-    "PSIR/Teoria/Funkcje/recv().md",
-    "PSIR/Teoria/Funkcje/bind().md",
-    "PSIR/Teoria/Funkcje/send().md",
-    "PSIR/Teoria/Koncepty/Big-endian.md",
-    "PSIR/Teoria/Koncepty/Socket.md",
-    "PSIR/Teoria/Koncepty/Funckje sieci IP języka C.md",
-    "PSIR/Teoria/Struktury/in6_addr.md",
-    "PSIR/Teoria/Struktury/addrinfo.md",
-    "PSIR/Teoria/Struktury/in_addr.md",
-    "PSIR/Teoria/Koncepty/Struktury danych sieci IP języka C.md"
+    "KRI/Wykład 1/KRI - Wykład 1.md",
+    "KRI/Teoria/Komutacja i routing w sieci IP.md",
+    "KRI/Teoria/Komutacja.md",
+    "KRI/Teoria/Multipleksacja statystyczna.md",
+    "KRI/Teoria/Komutacja pakietów.md",
+    "KRI/Teoria/Komutacja kanałów.md",
+    "KRI/Teoria/Tablica routingu.md",
+    "KRI/Teoria/Routing.md",
+    "KRI/Teoria/Płaszczyzna sterowania.md",
+    "KRI/Teoria/Płaszczyzna danych.md"
   ]
 }

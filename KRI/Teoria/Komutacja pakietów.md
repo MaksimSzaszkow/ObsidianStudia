@@ -1,0 +1,1 @@
+**Komutacja pakietów** - polega na przesyłaniu danych w pakietach, które zawierają dane i identyfikują od kogo do kogo dany pakiet jest przesyłany. Wykorzystywane są z reguły techniki [[Multipleksacja statystyczna | multipleksacji statystycznej]], np. za pomocą algorytmu [[Kolejka FIFO | FIFO]], co zapobiega marnowaniu się zasobów. 

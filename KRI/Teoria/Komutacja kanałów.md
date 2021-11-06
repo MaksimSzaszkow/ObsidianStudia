@@ -1,0 +1,1 @@
+**Komutacja kanałów** - polega na przesyłaniu danych na wyodrębnionych fizycznie kanałach danego łącza trasmisyjnego, do czego stosujemy [[Zwielokrotnienie czasowe (TDM) | TDM]], [[Zwielokrotnienie częstotliwościowe (FDM) | FMD]] lub [[Zwielokrotnienie kodowe (CDM) | CDM]]. Danemu użytkownikowi są przydzielane zasoby z których tylko on może korzystać. 
