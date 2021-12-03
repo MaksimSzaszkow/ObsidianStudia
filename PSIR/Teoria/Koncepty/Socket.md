@@ -77,7 +77,9 @@ if(connect(s, r->ai_addr, r->ai_addrlen) != 0){
 	// error handling
 }
 
-for(;;);
+for(;;){
+	// Kod klienta
+}
 
 freeaddrinfo(r);
 close(s);
@@ -103,6 +105,10 @@ if((s = socket(r->ai_family, r->ai_socktype, r->ai_protocol)) != 0 ){
 	// error handling
 }
 
+if(bind(s, r->ai_addr, r->ai_addrlen)!=0){
+	// error handling
+}
+
 if(listen(s, 1) != 0){
 	// error handling
 }
@@ -118,7 +124,9 @@ if(inet_ntop(AF_INET, &(their_addr.sin_addr), mip_str, INET_ADDRTRLEN) == NULL){
 	// error handling
 }
 
-for(;;);
+for(;;){
+	// Kod serwera
+}
 
 freeaddrinfo(r);
 close(s);
